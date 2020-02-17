@@ -15,7 +15,7 @@ There is an interesting block of code in this. A series of buttons are created w
 In a for loop each button is given a unique id and this unique id is referenced in a function call with a this.id
 parameter. 
 
-<img src="https://github.com/sgmerwin/EventTrackerJS/blob/master/listall.png" width="300" height="800">
+<img src="https://github.com/sgmerwin/EventTrackerJS/blob/master/listall.png" width="500" height="700">
 
 
 
